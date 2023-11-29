@@ -8,3 +8,14 @@ How to use:
 4. run decompile
 It's that easy! you don't need to download the srg and other stuff now!<br/>
 Need help? contact me on discord! Badbird5907#7139
+
+# Tips for Linux/macOS
+- Install [pkgx](https://pkgx.sh/)
+- Run `pkgx integrate` and restart your terminal
+- Install Python 2 with `env +python@2`
+- Run `env +openjdk.org` if you don't have Java 8 installed
+- Make decompile.py executable:
+  ```bash
+  $ chmod +x ./runtime/decompile.py
+  ```
+- Run `bash ./decompile.sh`
