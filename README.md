@@ -15,7 +15,7 @@ Need help? contact me on discord! Badbird5907#7139
 - Install Python 2 with `env +python@2`
 - Run `env +openjdk.org` if you don't have Java 8 installed
 - Make decompile.py executable:
-  ```bash
+  ```sh
   $ chmod +x ./runtime/decompile.py
   ```
 - Run `bash ./decompile.sh`
